@@ -1,0 +1,26 @@
+Viewing FC diff showed the differences in the two files,
+allowing to find the changes, and thus the bug.
+
+Having the entire history of a file can make it easier
+to change your mind, find bugs that were introduced
+and revert to earlier versions if needed.
+
+Manually making commits allows you to have restore
+points that can be used as is.  It is prone to human error tho and 
+there is the possibility to make commits too often or too rarely.
+
+single documents created in google docs are probably not connected
+with others in the same way that coding files are.  To deal
+with coding projects, you need more advanced functionality.
+Google docs is simpler if you don't need that complexity.
+
+git log can be used to show what commits you have and some
+information about them.  Git diff can show you more detailed
+information about the changes that were made in the commits.
+
+if you make a mistake, it will be easy to find it and revert
+you can easily test out changes and return to previous
+versions.
+
+I want to use git for work and for developing android apps
+at home.
