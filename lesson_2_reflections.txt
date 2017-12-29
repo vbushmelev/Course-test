@@ -6,4 +6,15 @@ the staging area allows you to specify what will go into the commit.
 the working directory has a copy of all the  files.
 This offers you more control over your commits.
 
+Add only the files you need for your logical change to the 
+staging area to ensure proper granularitet on commits.
 
+branches can help when you want to have multiple versions
+of the solution for whatever reason, testing etc
+
+diagrams help visualize the structure by showing how the commits
+relate to each other and which are connected.
+
+the result of merging branches together is to incorporate
+separate changes into the final solution. the diagram helps
+us to visualize the change history.
