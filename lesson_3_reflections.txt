@@ -1,0 +1,2 @@
+When you want to collaborate with others, then using a remote repository
+can be helpful.
