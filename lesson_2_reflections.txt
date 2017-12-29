@@ -1,0 +1,9 @@
+When you initialize a repository, you create an empty git repository
+that can be used to track your files.  You need to do it so that
+you can start tracking your files.
+
+the staging area allows you to specify what will go into the commit.
+the working directory has a copy of all the  files.
+This offers you more control over your commits.
+
+
